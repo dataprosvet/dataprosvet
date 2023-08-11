@@ -12,23 +12,23 @@ paginate = 10
 enableGitInfo = true
 
 [markup]
-    [markup.tableOfContents]
-        endLevel = 3
-        ordered = true
-        startLevel = 2
-    [markup.highlight]
-        noClasses = false
-        anchorLineNos = false
-        codeFences = true
-        guessSyntax = true
-        hl_Lines = ""
-        lineAnchors = ""
-        lineNoStart = 1
-        lineNos = true
-        lineNumbersInTable = true
-        style = "dracula"
-    [frontmatter]
-        lastmod = ["lastmod", ":git", "date", "publishDate"]
-        publishDate = ["publishDate", "date"]
-    [markup.goldmark.renderer]
-        unsafe = true
+[markup.tableOfContents]
+endLevel = 3
+ordered = true
+startLevel = 2
+[markup.highlight]
+noClasses = false
+anchorLineNos = false
+codeFences = true
+guessSyntax = true
+hl_Lines = ""
+lineAnchors = ""
+lineNoStart = 1
+lineNos = true
+lineNumbersInTable = true
+style = "dracula"
+[frontmatter]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
+[markup.goldmark.renderer]
+unsafe = true
