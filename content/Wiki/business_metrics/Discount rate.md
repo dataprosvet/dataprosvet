@@ -22,3 +22,4 @@ tags:
 - [[Wiki/business_metrics/CLV|CLV]]
 ## Ссылки
 - [discount rate](https://www.clv-calculator.com/discount-rates/role-discount-rate-clv/)
+- [ТЖ: ставка дисконтирования](https://journal.tinkoff.ru/guide/discountrate/)
