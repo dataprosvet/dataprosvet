@@ -1,3 +1,17 @@
+---
+title: "Многорукий бандит"
+tags:
+- "ML"
+- "AB"
+- "тесты"
+- "алгоритмы"
+- "bandit"
+aliases:
+- "Multi-Armed Bandit"
+pulishing_date: "2023-09-19 10:40"
+category: "Статья"
+---
+
 Created: 2022-09-19 10:10:25
 Tags: #ML #AB #DataScience #Bandits
 
