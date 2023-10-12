@@ -6,6 +6,7 @@ ignoreFiles = [
     "/content/Templates/*",
     "/content/notes/*",
     "/content/Development/*",
+    "/obsidian_config.tar.gz",
 ]
 summaryLength = 20
 paginate = 10
